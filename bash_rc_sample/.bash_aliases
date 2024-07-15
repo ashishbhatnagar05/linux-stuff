@@ -1,9 +1,14 @@
 alias cls='clear'
 alias so='source'
 alias so_brc='source ~/.bashrc'
+alias e_brc='vim ~/.bashrc'
+alias e_ba='vim ~/.bash_aliases'
 alias so_ba='source ~/.bash_aliases'
+alias mt='source /home/ashish/codebase/python-envs/ml-test/bin/activate'
 alias gedit='gnome-text-editor'
-
+alias python='python3'
+alias pip='pip3'
+alias ju='jupyter lab'
 ######################################################
 # GENERAL ALIAS'S
 #######################################################
